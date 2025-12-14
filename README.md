@@ -32,7 +32,6 @@ The Overview page provides a high level summary of animal shelter operations acr
 - 🕒 **Year Range Slider**: Filters data between selected years
 - 🐶 **Total Animals KPI Card**: Displays the total number of animals recorded
 - 📋 **Outcome Summary Metrics**: Shows counts for adopted, euthanized, returned to owner, stray intakes, and transfers
-- ⏱️ **Average Length of Stay KPI**: Represents the average stay duration in days
 - 📊 **Outcome Type Bar Chart**: Displays total animals by outcome type and subtype
 - 📈 **Intake Trend Line Chart**: Shows yearly intake volume trends
 - 📉 **Outcome Trend Line Chart**: Shows yearly outcome volume trends
@@ -80,7 +79,12 @@ Page 2: Metrics:
 <img width="1340" height="751" alt="image" src="https://github.com/user-attachments/assets/40f1255e-f6f2-41c0-98a6-24b3a5daa6c7" />
 
 ---
+## Data Model
 
+<img width="865" height="641" alt="image" src="https://github.com/user-attachments/assets/cad5e5b3-23bd-424a-80c3-4ac3bb289629" />
+
+
+---
 
 ## 🛠️ Tools and Technologies  
 - 💻 Power BI  
