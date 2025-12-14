@@ -72,11 +72,11 @@ The Metric page focuses on dynamic metric selection, year on year comparisons, a
 
 Page 1: Overview: 
 
-<img width="1343" height="752" alt="image" src="https://github.com/user-attachments/assets/a7cbf482-740d-4488-9bbd-69aa43c27ca1" />
+<img width="3236" height="1820" alt="Page1" src="https://github.com/user-attachments/assets/fd52a8cf-9920-4403-a56c-075fda338097" />
 
 Page 2: Metrics:
 
-<img width="1340" height="751" alt="image" src="https://github.com/user-attachments/assets/40f1255e-f6f2-41c0-98a6-24b3a5daa6c7" />
+<img width="3200" height="1800" alt="Page2" src="https://github.com/user-attachments/assets/3d77dfad-c5ed-4289-bf54-a05d36f6202d" />
 
 ---
 ## Data Model
