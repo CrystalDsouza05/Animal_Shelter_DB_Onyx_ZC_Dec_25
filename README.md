@@ -5,7 +5,7 @@ Onyx Data x ZoomCharts Mini Challenge December 2025
 This repository contains a Power BI dashboard created for the **Onyx Data x ZoomCharts Mini Challenge December 2025**, based on an **Animal Shelter Operations Analysis** dataset.  
 The dashboard presents operational metrics, outcome distributions, intake characteristics, and rate based KPIs across multiple years using interactive visuals 📊.
 
-### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiOTgwNzY0MDktN2M5Mi00ZTgyLWE1ZmEtMmQ5OTZhNTg3YTQ1IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODZiYzI5M2QtYTdmOC00MGZiLTlkNTEtOGI3NWJmOGRlODdmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 
 ## 🎯 Purpose  
